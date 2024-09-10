@@ -83,28 +83,28 @@ db[collection].insertMany(
             "rg": "41825841X",
             "telefone_aluno": "11986404760",
             "telefone_responsavel": "11986858608",
-            "email": "gui.alves19@gmail.com",
+            "email": "rogeriovidavi@gmail.com",
             "data_nascimento": "11-10-2005"
         },
         {
             "cod_aluno": 9,
-            "nome": "Guilherme Alves Area Matos",
-            "cpf": 85241882511,
-            "rg": "41825841X",
-            "telefone_aluno": "11986404760",
-            "telefone_responsavel": "11986858608",
-            "email": "gui.alves19@gmail.com",
-            "data_nascimento": "11-10-2005"
+            "nome": "Maria Eduarda Domingos",
+            "cpf": 15715715796,
+            "rg": "4808191444",
+            "telefone_aluno": "11982415263",
+            "telefone_responsavel": "11982418471",
+            "email": "duda.doming@gmail.com",
+            "data_nascimento": "01-02-2005"
         },
         {
             "cod_aluno": 10,
-            "nome": "Guilherme Alves Area Matos",
-            "cpf": 85241882511,
-            "rg": "41825841X",
-            "telefone_aluno": "11986404760",
-            "telefone_responsavel": "11986858608",
-            "email": "gui.alves19@gmail.com",
-            "data_nascimento": "11-10-2005"
+            "nome": "Mariana Azevedo",
+            "cpf": 51741851988,
+            "rg": "215552985",
+            "telefone_aluno": "11951569397",
+            "telefone_responsavel": "11951569397",
+            "email": "mari.azev19@outlook.com",
+            "data_nascimento": "10-10-2002"
         }
     ]
 )
